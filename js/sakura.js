@@ -1,6 +1,6 @@
 var stop, staticx;
 var img = new Image();
-img.src = "https://cdn.jsdelivr.net/gh/AShao0425/CDN/Js/cherry.png";
+img.src = "https://toshiki-cdn.vercel.app/Images/cherry.png";
 
 function Sakura(x, y, s, r, fn) {
     this.x = x;
